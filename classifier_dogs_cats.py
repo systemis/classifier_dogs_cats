@@ -11,7 +11,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 import cv2;
 
-
 data_filenames = {
   'photos': 'dogs_vs_cats_photos.txt',
   'labels': 'dogs_vs_cats_labels.txt'
